@@ -19,3 +19,4 @@ __*<h1 style = "text-align: center;">Harm & Ease</h1>*__
 3. Aceite
     - A ser posible:
         * Que no tenga que empeñar mi riñón
+        * Pero que sea Virgen Extra.
